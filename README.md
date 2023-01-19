@@ -13,6 +13,6 @@
 8. (부록) 추상화 기법
 
 
-<br/><br/>
+<br/>
 
 ![객체지향의 사실과 오해 표지](https://user-images.githubusercontent.com/96233738/213467865-e8782e0a-9cc3-4260-a7be-10357610e7df.jpeg)
